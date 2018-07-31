@@ -1,0 +1,10 @@
+E:\Projects\ImagicTool\ImagicTool\bin\Release\ImagicTool.exe.config
+E:\Projects\ImagicTool\ImagicTool\bin\Release\ImagicTool.exe
+E:\Projects\ImagicTool\ImagicTool\bin\Release\ImagicTool.pdb
+E:\Projects\ImagicTool\ImagicTool\obj\Release\ImagicTool.csprojAssemblyReference.cache
+E:\Projects\ImagicTool\ImagicTool\obj\Release\ImagicTool.Form1.resources
+E:\Projects\ImagicTool\ImagicTool\obj\Release\ImagicTool.Properties.Resources.resources
+E:\Projects\ImagicTool\ImagicTool\obj\Release\ImagicTool.csproj.GenerateResource.cache
+E:\Projects\ImagicTool\ImagicTool\obj\Release\ImagicTool.csproj.CoreCompileInputs.cache
+E:\Projects\ImagicTool\ImagicTool\obj\Release\ImagicTool.exe
+E:\Projects\ImagicTool\ImagicTool\obj\Release\ImagicTool.pdb
